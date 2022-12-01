@@ -1,0 +1,11 @@
+D:\ooop\Toolstrips\Toolstrips\bin\Debug\Toolstrips.exe.config
+D:\ooop\Toolstrips\Toolstrips\bin\Debug\Toolstrips.exe
+D:\ooop\Toolstrips\Toolstrips\bin\Debug\Toolstrips.pdb
+D:\ooop\Toolstrips\Toolstrips\obj\Debug\Toolstrips.csproj.AssemblyReference.cache
+D:\ooop\Toolstrips\Toolstrips\obj\Debug\Toolstrips.csproj.SuggestedBindingRedirects.cache
+D:\ooop\Toolstrips\Toolstrips\obj\Debug\Toolstrips.Form1.resources
+D:\ooop\Toolstrips\Toolstrips\obj\Debug\Toolstrips.Properties.Resources.resources
+D:\ooop\Toolstrips\Toolstrips\obj\Debug\Toolstrips.csproj.GenerateResource.cache
+D:\ooop\Toolstrips\Toolstrips\obj\Debug\Toolstrips.csproj.CoreCompileInputs.cache
+D:\ooop\Toolstrips\Toolstrips\obj\Debug\Toolstrips.exe
+D:\ooop\Toolstrips\Toolstrips\obj\Debug\Toolstrips.pdb
